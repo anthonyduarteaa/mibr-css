@@ -4,6 +4,8 @@
     width: auto;
 }
 body{
+    display: flexbox;
+    place-items: center;
     color: white;
     background-color: black;
 }
@@ -13,4 +15,15 @@ body{
 }
 .fotoaspas{
     width: 1025px;
+}
+.teste{
+    font-size: 16;
+    line-height: 1.625;
+    margin: 2em 0;
+    box-sizing: inherit;
+    font-family: arial;
+}
+.teste1{
+    
+    font-family: arial;
 }
